@@ -47,9 +47,27 @@ const music_list = [
   },
   {
     img: "images/laalsingh.jpg",
-    name: "LaalsinghChaddha",
+    name: "Laal Singh Chaddha",
     artist: "saurabh",
     music: "music/laalsingh.mp3",
+  },
+  {
+    img: "images/Kesari.jpg",
+    name: "Kesari",
+    artist: "Arko Pravo Mukherjee, Tanishk Bagchi, Chirantan Bhatt",
+    music: "music/Teri-Mitti.mp3",
+  },
+  {
+    img: "images/Kesariya.jpg",
+    name: "Kesariya",
+    artist: "Pritam Chakraborty, Amitabh Bhattacharya, Arijit Singh",
+    music: "music/Kesariya.mp3",
+  },
+  {
+    img: "images/bhoot.jpg",
+    name: "Kesariya",
+    artist: "Pritam Chakraborty, Amitabh Bhattacharya, Arijit Singh",
+    music: "music/DanceKaBhoot.mp3",
   },
 ];
 
