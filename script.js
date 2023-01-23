@@ -45,6 +45,12 @@ const music_list = [
     artist: "Pritam",
     music: "music/Rather Be.mp3",
   },
+  {
+    img: "images/laalsingh.jpg",
+    name: "LaalsinghChaddha",
+    artist: "saurabh",
+    music: "music/laalsingh.mp3",
+  },
 ];
 
 loadTrack(track_index);
