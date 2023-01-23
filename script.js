@@ -22,6 +22,68 @@ let updateTimer;
 
 const music_list = [
   {
+    img: "images/EnglishVinglish.jpg",
+    name: "EnglishVinglish",
+    artist: " R. Balki, Rakesh Jhunjhunwala, Sunil Lulla",
+    music: "music/BadlaNazara.mp3",
+  },
+  {
+    img: "images/lootera.jpg",
+    name: "Lootera",
+    artist: "Vikramaditya Motwane",
+    music: "music/MontaRe.mp3",
+  },
+  {
+    img: "images/Kesari.jpg",
+    name: "Kesari",
+    artist: "Arko Pravo Mukherjee, Tanishk Bagchi, Chirantan Bhatt",
+    music: "music/Teri-Mitti.mp3",
+  },
+  {
+    img: "images/laalsingh.jpg",
+    name: "Laal Singh Chaddha",
+    artist: "saurabh",
+    music: "music/laalsingh.mp3",
+  },
+  {
+    img: "images/Kesariya.jpg",
+    name: "Kesariya",
+    artist: " Pritam Chakraborty, Amitabh Bhattacharya, Arijit Singh",
+    music: "music/Kesariya.mp3",
+  },
+  {
+    img: "images/bhoot.jpg",
+    name: "Kesariya",
+    artist: " Pritam Chakraborty, Amitabh Bhattacharya, Arijit Singh",
+    music: "music/DanceKaBhoot.mp3",
+  },
+  {
+    img: "images/3-idiots.jpg",
+    name: "3-Idiots",
+    artist: "Sonu Nigam",
+    music: "music/AallzzWll.mp3",
+  },
+  {
+    img: "images/sariumr.jpg",
+    name: "3-Idiots",
+    artist: "Sonu Nigam",
+    music: "music/GiveMeSomSunshine.mp3",
+  },
+  {
+    img: "images/3-idiots.jpg",
+    name: "3-Idiots",
+    artist: "Sonu Nigam",
+    music: "music/BehtiHawaSaThaWoh.mp3",
+  },
+
+  {
+    img: "images/bandeya.jpg",
+    name: "Simmba",
+    artist: " Asees Kaur, Arijit Singh",
+    music: "music/BandeyaReyBandeya.mp3",
+  },
+
+  {
     img: "images/stay.png",
     name: "Stay",
     artist: "The Kid LAROI, Justin Bieber",
@@ -44,30 +106,6 @@ const music_list = [
     name: "Rather Be",
     artist: "Pritam",
     music: "music/Rather Be.mp3",
-  },
-  {
-    img: "images/laalsingh.jpg",
-    name: "Laal Singh Chaddha",
-    artist: "saurabh",
-    music: "music/laalsingh.mp3",
-  },
-  {
-    img: "images/Kesari.jpg",
-    name: "Kesari",
-    artist: "Arko Pravo Mukherjee, Tanishk Bagchi, Chirantan Bhatt",
-    music: "music/Teri-Mitti.mp3",
-  },
-  {
-    img: "images/Kesariya.jpg",
-    name: "Kesariya",
-    artist: "Pritam Chakraborty, Amitabh Bhattacharya, Arijit Singh",
-    music: "music/Kesariya.mp3",
-  },
-  {
-    img: "images/bhoot.jpg",
-    name: "Kesariya",
-    artist: "Pritam Chakraborty, Amitabh Bhattacharya, Arijit Singh",
-    music: "music/DanceKaBhoot.mp3",
   },
 ];
 
