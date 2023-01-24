@@ -58,6 +58,18 @@ const music_list = [
     music: "music/DanceKaBhoot.mp3",
   },
   {
+    img: "images/MereSohneya.jpg",
+    name: "Kabir Singh",
+    artist: " Sandeep Reddy Vanga",
+    music: "music/BanThanKeMutiyaran.mp3",
+  },
+  {
+    img: "images/tujhekitna.jpg",
+    name: "Kabir Singh",
+    artist: " Sandeep Reddy Vanga",
+    music: "music/Dil Ka Dariya.mp3",
+  },
+  {
     img: "images/3-idiots.jpg",
     name: "3-Idiots",
     artist: "Sonu Nigam",
