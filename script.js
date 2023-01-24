@@ -106,19 +106,6 @@ const music_list = [
     artist: "Dong Dong-Dong",
     music: "music/MyYouth.mp3",
   },
-
-  {
-    img: "images/stay.png",
-    name: "Stay",
-    artist: "The Kid LAROI, Justin Bieber",
-    music: "music/stay.mp3",
-  },
-  {
-    img: "images/fallingdown.jpg",
-    name: "Falling Down",
-    artist: "Wid Cards",
-    music: "music/fallingdown.mp3",
-  },
   {
     img: "images/faded.png",
     name: "Faded",
@@ -126,10 +113,10 @@ const music_list = [
     music: "music/Faded1.mp3",
   },
   {
-    img: "images/ratherbe.jpg",
-    name: "Rather Be",
-    artist: "Pritam",
-    music: "music/Rather Be.mp3",
+    img: "images/stay.png",
+    name: "Stay",
+    artist: "The Kid LAROI, Justin Bieber",
+    music: "music/stay.mp3",
   },
   {
     img: "images/Maroon.jpg",
@@ -148,6 +135,18 @@ const music_list = [
     name: "On My Way",
     artist: "Alan Walker",
     music: "music/On My Way.mp3",
+  },
+  {
+    img: "images/fallingdown.jpg",
+    name: "Falling Down",
+    artist: "Wid Cards",
+    music: "music/fallingdown.mp3",
+  },
+  {
+    img: "images/ratherbe.jpg",
+    name: "Insperation",
+    artist: "Unknown Brain",
+    music: "music/Inspiration.mp3",
   },
 ];
 
