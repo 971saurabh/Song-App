@@ -83,6 +83,12 @@ const music_list = [
     music: "music/BandeyaReyBandeya.mp3",
   },
   {
+    img: "images/todh.jpg",
+    name: "Todh",
+    artist: "Prince Narula, Munawar Faruqui",
+    music: "music/Todh.mp3",
+  },
+  {
     img: "images/download.jpg",
     name: "MyYouth",
     artist: "Dong Dong-Dong",
@@ -105,13 +111,31 @@ const music_list = [
     img: "images/faded.png",
     name: "Faded",
     artist: "Alan Walker",
-    music: "music/Faded.mp3",
+    music: "music/Faded1.mp3",
   },
   {
     img: "images/ratherbe.jpg",
     name: "Rather Be",
     artist: "Pritam",
     music: "music/Rather Be.mp3",
+  },
+  {
+    img: "images/Maroon.jpg",
+    name: "Marron",
+    artist: "Alan Worker",
+    music: "music/Maroon-5.mp3",
+  },
+  {
+    img: "images/memories.jpg",
+    name: "Memories",
+    artist: "Alan Walker",
+    music: "music/Memories-Maroon.mp3",
+  },
+  {
+    img: "images/onmyway.jpg",
+    name: "On My Way",
+    artist: "Alan Walker",
+    music: "music/On My Way.mp3",
   },
 ];
 
