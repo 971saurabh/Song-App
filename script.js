@@ -61,7 +61,7 @@ const music_list = [
     img: "images/3-idiots.jpg",
     name: "3-Idiots",
     artist: "Sonu Nigam",
-    music: "music/AallzzWll.mp3",
+    music: "music/AalIzzWell.mp3",
   },
   {
     img: "images/sariumr.jpg",
