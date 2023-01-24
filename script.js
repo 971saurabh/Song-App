@@ -82,6 +82,12 @@ const music_list = [
     artist: " Asees Kaur, Arijit Singh",
     music: "music/BandeyaReyBandeya.mp3",
   },
+  {
+    img: "images/download.jpg",
+    name: "MyYouth",
+    artist: "Dong Dong-Dong",
+    music: "music/MyYouth.mp3",
+  },
 
   {
     img: "images/stay.png",
