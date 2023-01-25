@@ -35,7 +35,7 @@ const music_list = [
   },
   {
     img: "images/jeetege1.jpg",
-    name: "Jeetega Jeetega",
+    name: "Desh Mere",
     artist: "Arijit Singh, Pritam",
     music: "music/Desh Mere.mp3",
   },
