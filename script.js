@@ -28,10 +28,22 @@ const music_list = [
     music: "music/LehraDoExtended.mp3",
   },
   {
+    img: "images/EnglishVinglish.jpg",
+    name: "EnglishVinglish",
+    artist: " R. Balki, Rakesh Jhunjhunwala, Sunil Lulla",
+    music: "music/BadlaNazara.mp3",
+  },
+  {
     img: "images/happyindependence.jpg",
     name: "Jeetega Jeetega",
     artist: "Arijit Singh, Pritam",
     music: "music/JeetegaJeetega1.mp3",
+  },
+  {
+    img: "images/lootera.jpg",
+    name: "Lootera",
+    artist: "Vikramaditya Motwane",
+    music: "music/MontaRe.mp3",
   },
   {
     img: "images/jeetege1.jpg",
@@ -56,18 +68,6 @@ const music_list = [
     name: "Jagjiteya",
     artist: "Arijit Singh, Pritam",
     music: "music/Jaggajiteya.mp3",
-  },
-  {
-    img: "images/EnglishVinglish.jpg",
-    name: "EnglishVinglish",
-    artist: " R. Balki, Rakesh Jhunjhunwala, Sunil Lulla",
-    music: "music/BadlaNazara.mp3",
-  },
-  {
-    img: "images/lootera.jpg",
-    name: "Lootera",
-    artist: "Vikramaditya Motwane",
-    music: "music/MontaRe.mp3",
   },
   {
     img: "images/Kesari.jpg",
