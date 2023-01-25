@@ -22,6 +22,42 @@ let updateTimer;
 
 const music_list = [
   {
+    img: "images/Lehrado.jpg",
+    name: "Lehrado",
+    artist: "Arijit Singh, Pritam",
+    music: "music/LehraDoExtended.mp3",
+  },
+  {
+    img: "images/happyindependence.jpg",
+    name: "Jeetega Jeetega",
+    artist: "Arijit Singh, Pritam",
+    music: "music/JeetegaJeetega1.mp3",
+  },
+  {
+    img: "images/jeetege1.jpg",
+    name: "Jeetega Jeetega",
+    artist: "Arijit Singh, Pritam",
+    music: "music/Desh Mere.mp3",
+  },
+  {
+    img: "images/ayewatan.jpg",
+    name: "AyeWatan",
+    artist: "Arijit Singh, Pritam",
+    music: "music/AyeWatanWatan.mp3",
+  },
+  {
+    img: "images/manzar.jpg ",
+    name: "Manzar Hai Ye Naya",
+    artist: "Arijit Singh, Pritam",
+    music: "music/ManzarHaiYeNaya.mp3",
+  },
+  {
+    img: "images/jagjiteya.jpg",
+    name: "Jagjiteya",
+    artist: "Arijit Singh, Pritam",
+    music: "music/Jaggajiteya.mp3",
+  },
+  {
     img: "images/EnglishVinglish.jpg",
     name: "EnglishVinglish",
     artist: " R. Balki, Rakesh Jhunjhunwala, Sunil Lulla",
@@ -42,7 +78,7 @@ const music_list = [
   {
     img: "images/laalsingh.jpg",
     name: "Laal Singh Chaddha",
-    artist: "saurabh",
+    artist: "Arijit Singh, Pritam",
     music: "music/laalsingh.mp3",
   },
   {
