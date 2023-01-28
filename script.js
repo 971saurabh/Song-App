@@ -137,7 +137,7 @@ const music_list = [
     music: "music/Todh.mp3",
   },
   {
-    img: "images/download.jpg",
+    img: "images/yoy.jpg",
     name: "MyYouth",
     artist: "Dong Dong-Dong",
     music: "music/MyYouth.mp3",
@@ -152,7 +152,7 @@ const music_list = [
     img: "images/stay.png",
     name: "Stay",
     artist: "The Kid LAROI, Justin Bieber",
-    music: "music/stay.mp3",
+    music: "music/Stay1.mp3",
   },
   {
     img: "images/Maroon.jpg",
